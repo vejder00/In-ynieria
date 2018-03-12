@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1520867119 source:c:\users\student.desktop-icom-tr\desktop\imp\uniwer\tstudent.cpp
+	<iostream>
+	<string>
+	"TStudent.h"
+
+1520867119 c:\users\student.desktop-icom-tr\desktop\imp\uniwer\tstudent.h
+	<iostream>
+	<string>
+
+1520867196 source:c:\users\student.desktop-icom-tr\desktop\imp\uniwer\tuniversity.cpp
+	<iostream>
+	<string>
+	"TUniversity.h"
+	"TStudent.h"
+
+1520867172 c:\users\student.desktop-icom-tr\desktop\imp\uniwer\tuniversity.h
+	<iostream>
+	<string>
+	<vector>
+	"TStudent.h"
+
